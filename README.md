@@ -141,5 +141,5 @@ A structured research and outreach workflow for identifying commercial fleet pro
 ---
 
 <p align="center">
-  <i>Building strong foundations in programming, analytics, and computer science—one project at a time.</i>
+  <i>Building strong foundations in programming, analytics, and computer science.</i>
 </p>
